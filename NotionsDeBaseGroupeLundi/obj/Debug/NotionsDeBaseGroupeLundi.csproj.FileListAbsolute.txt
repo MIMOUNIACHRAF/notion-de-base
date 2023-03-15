@@ -1,0 +1,7 @@
+C:\Users\MANI Mohammed Adil\source\repos\NotionsDeBaseGroupeLundi\NotionsDeBaseGroupeLundi\bin\Debug\NotionsDeBaseGroupeLundi.exe.config
+C:\Users\MANI Mohammed Adil\source\repos\NotionsDeBaseGroupeLundi\NotionsDeBaseGroupeLundi\bin\Debug\NotionsDeBaseGroupeLundi.exe
+C:\Users\MANI Mohammed Adil\source\repos\NotionsDeBaseGroupeLundi\NotionsDeBaseGroupeLundi\bin\Debug\NotionsDeBaseGroupeLundi.pdb
+C:\Users\MANI Mohammed Adil\source\repos\NotionsDeBaseGroupeLundi\NotionsDeBaseGroupeLundi\obj\Debug\NotionsDeBaseGroupeLundi.csproj.AssemblyReference.cache
+C:\Users\MANI Mohammed Adil\source\repos\NotionsDeBaseGroupeLundi\NotionsDeBaseGroupeLundi\obj\Debug\NotionsDeBaseGroupeLundi.csproj.CoreCompileInputs.cache
+C:\Users\MANI Mohammed Adil\source\repos\NotionsDeBaseGroupeLundi\NotionsDeBaseGroupeLundi\obj\Debug\NotionsDeBaseGroupeLundi.exe
+C:\Users\MANI Mohammed Adil\source\repos\NotionsDeBaseGroupeLundi\NotionsDeBaseGroupeLundi\obj\Debug\NotionsDeBaseGroupeLundi.pdb
